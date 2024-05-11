@@ -17,7 +17,11 @@
 
 ## 设计要素
 
-Mohist 的名字深受中国先秦时期墨家学派的影响。Mohist 项目是一个 Bukkit-Forge 混合型 Minecraft 服务端，以社区驱动，秉承“兼爱非公”的社区思想，为 Minecraft 的模组服务器领域做出了卓越贡献。
+Mohist的名字来源于中国古代哲学流派之一的墨家。Mohist项目是一个Bukkit-Forge混合的Minecraft服务端，以社区驱动，秉承“兼爱非攻”的社区理念，为Minecraft的模组服务器领域作出了巨大贡献。在设计中，您可以考虑融入以下要素：
+
+- **墨家元素**：可以借鉴墨家的文化符号或哲学思想，以体现Mohist项目的文化底蕴。
+- **Minecraft特色**：结合Minecraft游戏的特点和元素，如方块、像素风格等，以展示项目的主题。
+- **社区理念**：通过设计元素或色彩搭配，传达“兼爱非攻”的社区理念，体现项目的社区文化和价值观。
 
 ## 提交规范
 
@@ -28,4 +32,4 @@ Mohist 的名字深受中国先秦时期墨家学派的影响。Mohist 项目是
    - 设计理念描述文件：命名为 `design_concept.md`，用于解释 Logo 的设计理念。
 4. **提交更改**：将你的仓库提交到 Github ，然后在 Github 上提出合并修改申请，管理员会审核你的作品。
 
-**示例**：假设用户名为 `xmb505`，提交的 Logo 将位于 `/logos/xmb505/logo.svg`，而设计理念的描述文件将位于 `/logos/xmb505/design_concept.md`。
+**示例**：假设提交设计的用户为 `xmb505`，提交的 Logo 将位于 `/logos/xmb505/logo.svg`，而设计理念的描述文件将位于 `/logos/xmb505/design_concept.md`。
