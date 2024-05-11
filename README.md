@@ -1,2 +1,31 @@
-# mohist-logo-disign
-A mohist logo disigner
+# Mohist Logo 设计仓库
+
+## 前言
+
+为了支持我们杰出的 [Mohist 项目](https://mohistmc.com) 和响应 [Mgazul](https://github.com/Mgazul) 的最高指示，现诚挚邀请我们社区的成员共同为 Mohist 项目设计一个独特的 Logo！
+
+## 设计规范
+
+1. **矢量图格式**：请确保 Logo 采用矢量图设计，优先推荐使用 SVG 格式。
+2. **版权清晰**：设计需确保无版权争议，避免使用受版权保护的元素。
+3. **开源协议**：本仓库遵循 MIT 协议。若 Mohist 项目官方采纳您的设计，虽有权闭源该设计，但将明确注明来源于您的开源作品。
+
+## 设计原则
+
+1. **简洁**：避免使用过于复杂的图案和过多的细节，保持 Logo 的清晰与简洁。
+2. **可识别性**：确保 Logo 具有高度可识别性，让人们在众多 Logo 中一眼就能认出这是 Mohist 项目。
+
+## 设计要素
+
+Mohist 的名字深受中国先秦时期墨家学派的影响。Mohist 项目是一个 Bukkit-Forge 混合型 Minecraft 服务端，以社区驱动，秉承“兼爱非公”的社区思想，为 Minecraft 的模组服务器领域做出了卓越贡献。
+
+## 提交规范
+
+1. **Fork 与 Clone**：首先，您需要 Fork 本仓库，并 clone 到本地进行修改。
+2. **创建文件夹**：在 `/logos` 目录下，以您的名字命名创建一个新文件夹。
+3. **文件命名**：在新文件夹下，您需要提交两个文件：
+   - Logo 文件：命名为 `logo.svg`。
+   - 设计理念描述文件：命名为 `design_concept.md`，用于解释 Logo 的设计理念。
+4. **提交更改**：将你的仓库提交到 Github ，然后在 Github 上提出合并修改申请，管理员会审核你的作品。
+
+**示例**：假设用户名为 `xmb505`，提交的 Logo 将位于 `/logos/xmb505/logo.svg`，而设计理念的描述文件将位于 `/logos/xmb505/design_concept.md`。
